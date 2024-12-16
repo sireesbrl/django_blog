@@ -1,7 +1,11 @@
 git clone <git@github.com:sireesbrl/django_blog.git>
+
 cd django_blog/
+
 python3 -m venv .venv
+
 source .venv/bin/activate
+
 pip install -r requirements.txt
 
 create a .env file in root directory
