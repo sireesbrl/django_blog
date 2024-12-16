@@ -19,4 +19,5 @@ create a .env file in root directory
   - DB_HOST
 
 after installing a postgres database: python3 manage.py migrate
+
 python3 manage.py runserver
