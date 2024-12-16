@@ -1,0 +1,8 @@
+__pycache__/
+
+.venv/
+.env
+
+*.sqlite3
+
+my_site_data.json
